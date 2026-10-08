@@ -1,1 +1,3 @@
 boto3
+pip install python-dotenv
+pip install azure-storage-blob
